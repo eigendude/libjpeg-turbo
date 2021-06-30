@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>libjpeg-turbo</name>
+  <version>0.2.0</version>
+  <description>libjpeg-turbo is a JPEG image codec that uses SIMD instructions to accelerate baseline JPEG compression and decompression</description>
+  <maintainer email="noone@nowhere.com">Unknown</maintainer>
+  <license>Apache-2.0</license>
+
+  <url type="website">https://libjpeg-turbo.org/</url>
+  <url type="bugtracker">https://github.com/libjpeg-turbo/libjpeg-turbo/issues</url>
+  <url type="repository">https://github.com/libjpeg-turbo/libjpeg-turbo.git</url>
+</package>
